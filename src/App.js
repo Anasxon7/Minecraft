@@ -21,6 +21,7 @@ function App() {
           <Ground />
         </Physics>
       </Canvas>
+      <div className='absolute centered cursor'>+</div>
       <TextureSelector />
       <Menu /> 
     </>
