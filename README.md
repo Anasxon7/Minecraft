@@ -1,6 +1,6 @@
 # Welcome to React three  Minecraft
 
-Demo: https://minecraft-.vercel.app/
+Demo: https://minecraft-rho-seven.vercel.app/
 
 ## How to play?
 
