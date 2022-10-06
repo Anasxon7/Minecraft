@@ -22,8 +22,9 @@ function App() {
         </Physics>
       </Canvas>
       <div className='absolute centered cursor'>+</div>
+      <a href='https://github.com/Anasxon7/Minecraft' className='absolute bottomed cursor'>Madamionov</a>
       <TextureSelector />
-      <Menu /> 
+      <Menu /> asads
     </>
   );
 }
